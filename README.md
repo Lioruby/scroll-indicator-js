@@ -2,7 +2,8 @@
 A simple vanilla JS scroll indicator. No dependencies, best performances.
 
 
-https://user-images.githubusercontent.com/71385272/185467876-501c32e9-2649-4b3e-aee3-6ca73f121717.mov
+![ezgif-4-f043ff0fe8](https://user-images.githubusercontent.com/71385272/185468248-6180ec1f-6b0f-47a3-bbaf-b35ca1ac6cb2.gif)
+
 
 
 ## Get Started
