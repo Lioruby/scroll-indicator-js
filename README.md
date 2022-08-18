@@ -1,6 +1,10 @@
 ## Scroll Indicator JS
 A simple vanilla JS scroll indicator. No dependencies, best performances.
 
+
+https://user-images.githubusercontent.com/71385272/185467876-501c32e9-2649-4b3e-aee3-6ca73f121717.mov
+
+
 ## Get Started
 With yarn
 
@@ -17,7 +21,7 @@ To use it in your app
 ```javascript
 
 // main.js
-import { scrollIndicator } from 'scroll-indicator-js'
+import scrollIndicator from 'scroll-indicator-js'
 
 
 scrollIndicator() // Start the scroll indicator on all .scroll-indicator classes
