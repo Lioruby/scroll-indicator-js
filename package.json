@@ -1,8 +1,9 @@
 {
   "name": "scroll-indicator-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple vanilla JS scroll indicator. No dependencies, best performances.",
   "main": "./src/scrollIndicator.js",
+  "repository": "https://github.com/Lioruby/scroll-indicator-js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
